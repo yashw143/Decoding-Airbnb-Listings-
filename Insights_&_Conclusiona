@@ -1,0 +1,28 @@
+Here are some potential soultions to achieve the business objectives:
+
+1.Price Optimization: Businesses can use the insights from the chart on the distribution of prices by room type to optimize their pricing strategy. For example, if the goal is to target higher-end customers, the business can focus on offering luxury or premium products in the long tail of higher prices. If the goal is to appeal to a wider range of customers, the business can set prices in the range of 100-200, which is the most appealing price range for customers.
+
+2.Marketing and Advertising: The insights gained from the chart on the distribution of Airbnb listings by neighborhood and neighborhood group can help businesses to identify which areas have the highest concentration of properties and where they can focus their marketing and advertising efforts. For example, if a business wants to target high-end customers, they can focus on the coastal areas with the highest prices, while if they want to target budget-conscious customers, they can focus on the inland regions with lower-priced listings.
+
+3.Property Investment: The insights gained from the geographic distribution chart can help businesses to identify areas with high property values and high demand for Airbnb rentals. This information can be used to guide property investment decisions and potentially generate higher returns.
+
+4.Booking Optimization: Businesses can use the insights from the chart on the availability of Airbnb rentals throughout the year to optimize their booking strategy. For example, if the business wants to target short-term rentals, they can focus on the 34% of rentals that were available for less than 90 days in 2019. Alternatively, if the business wants to target longer-term rentals, they can focus on the 23% of rentals that were available for between 180 and 270 days.
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+
+The conclusions that can be drawn from the insights gained from the Airbnb analysis are:
+1.The most common type of rental is the Entire home/apt, followed by Private room and Shared room.
+
+2.The top 10 neighborhoods with the most Airbnb listings in New York City can be identified.
+
+3.The average price per neighborhood for the least expensive neighborhoods in the dataset can be used to identify areas that may be more affordable for tourists or renters.
+
+4.The geographic distribution of properties across different neighborhoods in New York City can be visualized.
+
+5.The distribution of properties by neighborhood group can be identified.
+
+6.Higher-priced listings are located near the coast, which may be due to the proximity of the beach and other tourist attractions.
+
+7.Approximately 34% of Airbnb rentals were available for less than 90 days in 2019.
